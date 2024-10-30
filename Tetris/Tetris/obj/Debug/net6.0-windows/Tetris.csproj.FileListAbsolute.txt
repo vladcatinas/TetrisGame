@@ -1,0 +1,4 @@
+C:\Users\pc\source\repos\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pc\source\repos\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pc\source\repos\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+C:\Users\pc\source\repos\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
